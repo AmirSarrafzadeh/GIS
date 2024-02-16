@@ -1,2 +1,2 @@
 # GIS
-This repository is for scripts and GIS data.
+This repository is for scripts, ArcGIS Pro, and GIS data.
